@@ -1,4 +1,4 @@
-In this project, let's build a **Github Popular Repos** by applying the concepts we have learned till now.
+# [Github Popular Repos](https://sspgitrepos.ccbp.tech/)
 
 ### Refer to the images below:
 
